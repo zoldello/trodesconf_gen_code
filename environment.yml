@@ -1,0 +1,6 @@
+name: Trodesconf Generator
+channels:
+- defaults
+- conda-forge
+dependencies:
+- argparse

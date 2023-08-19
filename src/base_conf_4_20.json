@@ -1,0 +1,3671 @@
+{
+	"Configuration": {
+		"GlobalConfiguration": {
+			"_filePath": "",
+			"_realtimeMode": "0",
+			"_saveDisplayedChanOnly": "1",
+			"_fileChunkSize": "-1",
+			"_filePrefix": ""
+		},
+		"BenchmarkConfiguration": "",
+		"NetworkConfiguration": {
+			"_networkType": "qsocket"
+		},
+		"HardwareConfiguration": {
+			"Device": [
+				{
+					"Channel": [
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "Controller_Din1",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "Controller_Din2",
+							"_input": "1",
+							"_bit": "1"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "Controller_Din3",
+							"_input": "1",
+							"_bit": "2"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "Controller_Din4",
+							"_input": "1",
+							"_bit": "3"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "Controller_Din5",
+							"_input": "1",
+							"_bit": "4"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "Controller_Din6",
+							"_input": "1",
+							"_bit": "5"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "Controller_Din7",
+							"_input": "1",
+							"_bit": "6"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "Controller_Din8",
+							"_input": "1",
+							"_bit": "7"
+						}
+					],
+					"_available": "1",
+					"_name": "Controller_DIO",
+					"_packetOrderPreference": "10",
+					"_numBytes": "1"
+				},
+				{
+					"Channel": [
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "ECU_Din1",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "ECU_Din2",
+							"_input": "1",
+							"_bit": "1"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "ECU_Din3",
+							"_input": "1",
+							"_bit": "2"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "ECU_Din4",
+							"_input": "1",
+							"_bit": "3"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "ECU_Din5",
+							"_input": "1",
+							"_bit": "4"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "ECU_Din6",
+							"_input": "1",
+							"_bit": "5"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "ECU_Din7",
+							"_input": "1",
+							"_bit": "6"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "0",
+							"_id": "ECU_Din8",
+							"_input": "1",
+							"_bit": "7"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "1",
+							"_id": "ECU_Din9",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "1",
+							"_id": "ECU_Din10",
+							"_input": "1",
+							"_bit": "1"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "1",
+							"_id": "ECU_Din11",
+							"_input": "1",
+							"_bit": "2"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "1",
+							"_id": "ECU_Din12",
+							"_input": "1",
+							"_bit": "3"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "1",
+							"_id": "ECU_Din13",
+							"_input": "1",
+							"_bit": "4"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "1",
+							"_id": "ECU_Din14",
+							"_input": "1",
+							"_bit": "5"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "1",
+							"_id": "ECU_Din15",
+							"_input": "1",
+							"_bit": "6"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "1",
+							"_id": "ECU_Din16",
+							"_input": "1",
+							"_bit": "7"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "2",
+							"_id": "ECU_Din17",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "2",
+							"_id": "ECU_Din18",
+							"_input": "1",
+							"_bit": "1"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "2",
+							"_id": "ECU_Din19",
+							"_input": "1",
+							"_bit": "2"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "2",
+							"_id": "ECU_Din20",
+							"_input": "1",
+							"_bit": "3"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "2",
+							"_id": "ECU_Din21",
+							"_input": "1",
+							"_bit": "4"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "2",
+							"_id": "ECU_Din22",
+							"_input": "1",
+							"_bit": "5"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "2",
+							"_id": "ECU_Din23",
+							"_input": "1",
+							"_bit": "6"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "2",
+							"_id": "ECU_Din24",
+							"_input": "1",
+							"_bit": "7"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "3",
+							"_id": "ECU_Din25",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "3",
+							"_id": "ECU_Din26",
+							"_input": "1",
+							"_bit": "1"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "3",
+							"_id": "ECU_Din27",
+							"_input": "1",
+							"_bit": "2"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "3",
+							"_id": "ECU_Din28",
+							"_input": "1",
+							"_bit": "3"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "3",
+							"_id": "ECU_Din29",
+							"_input": "1",
+							"_bit": "4"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "3",
+							"_id": "ECU_Din30",
+							"_input": "1",
+							"_bit": "5"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "3",
+							"_id": "ECU_Din31",
+							"_input": "1",
+							"_bit": "6"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "3",
+							"_id": "ECU_Din32",
+							"_input": "1",
+							"_bit": "7"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "4",
+							"_id": "ECU_Dout1",
+							"_input": "0",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "4",
+							"_id": "ECU_Dout2",
+							"_input": "0",
+							"_bit": "1"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "4",
+							"_id": "ECU_Dout3",
+							"_input": "0",
+							"_bit": "2"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "4",
+							"_id": "ECU_Dout4",
+							"_input": "0",
+							"_bit": "3"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "4",
+							"_id": "ECU_Dout5",
+							"_input": "0",
+							"_bit": "4"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "4",
+							"_id": "ECU_Dout6",
+							"_input": "0",
+							"_bit": "5"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "4",
+							"_id": "ECU_Dout7",
+							"_input": "0",
+							"_bit": "6"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "4",
+							"_id": "ECU_Dout8",
+							"_input": "0",
+							"_bit": "7"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "5",
+							"_id": "ECU_Dout9",
+							"_input": "0",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "5",
+							"_id": "ECU_Dout10",
+							"_input": "0",
+							"_bit": "1"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "5",
+							"_id": "ECU_Dout11",
+							"_input": "0",
+							"_bit": "2"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "5",
+							"_id": "ECU_Dout12",
+							"_input": "0",
+							"_bit": "3"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "5",
+							"_id": "ECU_Dout13",
+							"_input": "0",
+							"_bit": "4"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "5",
+							"_id": "ECU_Dout14",
+							"_input": "0",
+							"_bit": "5"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "5",
+							"_id": "ECU_Dout15",
+							"_input": "0",
+							"_bit": "6"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "5",
+							"_id": "ECU_Dout16",
+							"_input": "0",
+							"_bit": "7"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "6",
+							"_id": "ECU_Dout17",
+							"_input": "0",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "6",
+							"_id": "ECU_Dout18",
+							"_input": "0",
+							"_bit": "1"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "6",
+							"_id": "ECU_Dout19",
+							"_input": "0",
+							"_bit": "2"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "6",
+							"_id": "ECU_Dout20",
+							"_input": "0",
+							"_bit": "3"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "6",
+							"_id": "ECU_Dout21",
+							"_input": "0",
+							"_bit": "4"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "6",
+							"_id": "ECU_Dout22",
+							"_input": "0",
+							"_bit": "5"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "6",
+							"_id": "ECU_Dout23",
+							"_input": "0",
+							"_bit": "6"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "6",
+							"_id": "ECU_Dout24",
+							"_input": "0",
+							"_bit": "7"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "6",
+							"_id": "ECU_Dout25",
+							"_input": "0",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "7",
+							"_id": "ECU_Dout26",
+							"_input": "0",
+							"_bit": "1"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "7",
+							"_id": "ECU_Dout27",
+							"_input": "0",
+							"_bit": "2"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "7",
+							"_id": "ECU_Dout28",
+							"_input": "0",
+							"_bit": "3"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "7",
+							"_id": "ECU_Dout29",
+							"_input": "0",
+							"_bit": "4"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "7",
+							"_id": "ECU_Dout30",
+							"_input": "0",
+							"_bit": "5"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "7",
+							"_id": "ECU_Dout31",
+							"_input": "0",
+							"_bit": "6"
+						},
+						{
+							"_dataType": "digital",
+							"_startByte": "7",
+							"_id": "ECU_Dout32",
+							"_input": "0",
+							"_bit": "7"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "8",
+							"_id": "ECU_Ain1",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "10",
+							"_id": "ECU_Ain2",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "12",
+							"_id": "ECU_Ain3",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "14",
+							"_id": "ECU_Ain4",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "16",
+							"_id": "ECU_Ain5",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "18",
+							"_id": "ECU_Ain6",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "20",
+							"_id": "ECU_Ain7",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "22",
+							"_id": "ECU_Ain8",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "24",
+							"_id": "ECU_Aout1",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "26",
+							"_id": "ECU_Aout2",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "28",
+							"_id": "ECU_Aout3",
+							"_input": "1",
+							"_bit": "0"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "30",
+							"_id": "ECU_Aout4",
+							"_input": "1",
+							"_bit": "0"
+						}
+					],
+					"_available": "1",
+					"_name": "ECU",
+					"_packetOrderPreference": "20",
+					"_numBytes": "32"
+				},
+				{
+					"Channel": [
+						{
+							"_dataType": "analog",
+							"_startByte": "2",
+							"_id": "Headstage_AccelX",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "3"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "4",
+							"_id": "Headstage_AccelY",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "3"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "6",
+							"_id": "Headstage_AccelZ",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "3"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "2",
+							"_id": "Headstage_GyroX",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "2"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "4",
+							"_id": "Headstage_GyroY",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "2"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "6",
+							"_id": "Headstage_GyroZ",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "2"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "2",
+							"_id": "Headstage_MagX",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "1"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "4",
+							"_id": "Headstage_MagY",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "1"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "6",
+							"_id": "Headstage_MagZ",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "1"
+						},
+						{
+							"_dataType": "uint32",
+							"_startByte": "2",
+							"_id": "RFsync",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "0"
+						},
+						{
+							"_dataType": "uint32",
+							"_startByte": "2",
+							"_id": "Headstage_Ack1",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "4"
+						},
+						{
+							"_dataType": "uint32",
+							"_startByte": "4",
+							"_id": "Headstage_Ack2",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "4"
+						},
+						{
+							"_dataType": "uint32",
+							"_startByte": "6",
+							"_id": "Headstage_Ack3",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "4"
+						},
+						{
+							"_dataType": "analog",
+							"_startByte": "2",
+							"_id": "Controller_Ain1",
+							"_input": "1",
+							"_bit": "0",
+							"_interleavedDataIDByte": "0",
+							"_interleavedDataIDBit": "5"
+						}
+					],
+					"_available": "1",
+					"_name": "Multiplexed",
+					"_packetOrderPreference": "30",
+					"_numBytes": "8"
+				},
+				{
+					"_available": "1",
+					"_name": "SysClock",
+					"_packetOrderPreference": "10000",
+					"_numBytes": "8"
+				}
+			],
+			"_numChannels": "128",
+			"_samplingRate": "30000",
+			"_lfpSubsamplingInterval": "20",
+			"_useIntrinsics": "1"
+		},
+		"ModuleConfiguration": {
+			"SingleModuleConfiguration": [
+				{
+					"Argument": {
+						"_flag": "-20",
+						"_value": "-ptpEnabled"
+					},
+					"_sendNetworkInfo": "1",
+					"_sendTrodesConfig": "1",
+					"_moduleName": "cameraModule"
+				},
+				{
+					"_sendNetworkInfo": "1",
+					"_sendTrodesConfig": "1",
+					"_moduleName": "stateScript"
+				}
+			]
+		},
+		"StreamDisplay": {
+			"_horizontal": "0",
+			"_columns": "4",
+			"_pageBreaks": "",
+			"_backgroundColor": "#000000",
+			"_pages": "1"
+		},
+		"AuxDisplayConfiguration": {
+			"DispChannel": [
+				{
+					"_id": "ECU_Din1",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din2",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din3",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din4",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din5",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din6",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din7",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din8",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din9",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din10",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din11",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din12",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din13",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din14",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din15",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din16",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout1",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout2",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout3",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout4",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout5",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout6",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout7",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout8",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout9",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout10",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout11",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout12",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout13",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout14",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout15",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout16",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din17",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din18",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din19",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din20",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din21",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din22",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din23",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din24",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din25",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din26",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din27",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din28",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din29",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din30",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din31",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Din32",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout17",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout18",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout19",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout20",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout21",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout22",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout23",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout24",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout25",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout26",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout27",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout28",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout29",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout30",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout31",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Dout32",
+					"_color": "#aaaaaa",
+					"_device": "ECU",
+					"_maxDisp": "2",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Ain1",
+					"_color": "#008000",
+					"_device": "ECU",
+					"_maxDisp": "2000",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Ain2",
+					"_color": "#008000",
+					"_device": "ECU",
+					"_maxDisp": "2000",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Ain3",
+					"_color": "#008000",
+					"_device": "ECU",
+					"_maxDisp": "2000",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Ain4",
+					"_color": "#008000",
+					"_device": "ECU",
+					"_maxDisp": "2000",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Ain5",
+					"_color": "#008000",
+					"_device": "ECU",
+					"_maxDisp": "2000",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Ain6",
+					"_color": "#008000",
+					"_device": "ECU",
+					"_maxDisp": "2000",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Ain7",
+					"_color": "#008000",
+					"_device": "ECU",
+					"_maxDisp": "2000",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Ain8",
+					"_color": "#008000",
+					"_device": "ECU",
+					"_maxDisp": "2000",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Aout1",
+					"_color": "#008000",
+					"_device": "ECU",
+					"_maxDisp": "2000",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Aout2",
+					"_color": "#008000",
+					"_device": "ECU",
+					"_maxDisp": "2000",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Aout3",
+					"_color": "#008000",
+					"_device": "ECU",
+					"_maxDisp": "2000",
+					"_analyze": "0"
+				},
+				{
+					"_id": "ECU_Aout4",
+					"_color": "#008000",
+					"_device": "ECU",
+					"_maxDisp": "2000",
+					"_analyze": "0"
+				}
+			]
+		},
+		"SpikeConfiguration": {
+			"SpikeNTrode": [
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "46",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "42",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "38",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "34",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "1",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ff3232",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "63",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "59",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "55",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "51",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "2",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ff3232",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "29",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "25",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "28",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "21",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "3",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ff3232",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "9",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "13",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "16",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "24",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "4",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ff3232",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "47",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "43",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "39",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "35",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "5",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ff3232",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "62",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "58",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "54",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "50",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "6",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ff3232",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "32",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "5",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "0",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "4",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "7",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ff3232",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "8",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "17",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "20",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "12",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "8",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ff3232",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "44",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "40",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "36",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "31",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "9",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32ff32",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "60",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "57",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "53",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "49",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "10",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32ff32",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "27",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "23",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "19",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "14",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "11",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32ff32",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "10",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "6",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "2",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "11",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "12",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32ff32",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "45",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "41",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "37",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "33",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "13",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32ff32",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "61",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "56",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "52",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "48",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "14",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32ff32",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "30",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "26",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "22",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "18",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "15",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32ff32",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "15",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "7",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "1",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "3",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "16",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32ff32",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "117",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "121",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "125",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "116",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "17",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32f6ff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "100",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "104",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "108",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "113",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "18",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32f6ff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "67",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "70",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "74",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "78",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "19",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32f6ff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "83",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "87",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "91",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "95",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "20",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32f6ff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "112",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "120",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "126",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "124",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "21",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32f6ff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "97",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "101",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "105",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "109",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "22",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32f6ff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "66",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "71",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "75",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "79",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "23",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32f6ff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "82",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "86",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "90",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "94",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "24",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#32f6ff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "118",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "114",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "111",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "103",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "25",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ffffff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "98",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "102",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "99",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "106",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "26",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ffffff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "64",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "68",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "72",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "76",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "27",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ffffff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "81",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "85",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "89",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "93",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "28",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ffffff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "119",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "110",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "107",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "115",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "29",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ffffff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "96",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "122",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "127",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "123",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "30",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ffffff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "65",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "69",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "73",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "77",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "31",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ffffff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				},
+				{
+					"SpikeChannel": [
+						{
+							"_hwChan": "80",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "84",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "88",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						},
+						{
+							"_hwChan": "92",
+							"_coord_ap": "0",
+							"_coord_dv": "0",
+							"_coord_ml": "0",
+							"_thresh": "30",
+							"_triggerOn": "1",
+							"_stimCapable": "0",
+							"_spikeSortingGroup": "0",
+							"_maxDisp": "200"
+						}
+					],
+					"_viewStimBand": "0",
+					"_rawScalingToUv": "0.19500000000000001",
+					"_lfpRefOn": "0",
+					"_rawRefOn": "0",
+					"_notchFilterOn": "0",
+					"_id": "32",
+					"_LFPHighFilter": "200",
+					"_viewLFPBand": "0",
+					"_filterOn": "1",
+					"_refNTrodeID": "-1",
+					"_moduleDataOn": "0",
+					"_LFPChan": "1",
+					"_refGroup": "0",
+					"_lfpFilterOn": "0",
+					"_color": "#ffffff",
+					"_lfpScalingToUv": "0.19500000000000001",
+					"_lowFilter": "300",
+					"_refOn": "0",
+					"_groupRefOn": "0",
+					"_viewSpikeBand": "1",
+					"_notchBW": "10",
+					"_highFilter": "6000",
+					"_refChan": "1",
+					"_spikeScalingToUv": "0.19500000000000001",
+					"_notchFreq": "60"
+				}
+			],
+			"_categories": "",
+			"_chanPerChip": "32",
+			"_device": "intan"
+		}
+	}
+}
